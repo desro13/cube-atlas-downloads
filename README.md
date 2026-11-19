@@ -1,11 +1,9 @@
 # Cube Atlas downloads
 
-This public repository hosts installable Cube Atlas preview builds and the version feed. The application source is kept in a private repository.
+This public repository hosts installable Cube Atlas preview builds and the version feed. Application source remains private.
 
-Download the current [Android 0.8 and Windows 0.7 preview](https://github.com/desro13/cube-atlas-downloads/releases/tag/v0.8.0-preview).
+Download the current [Android 0.9 and Windows 0.8 preview](https://github.com/desro13/cube-atlas-downloads/releases/tag/v0.9.0-preview).
 
-Android 0.8 and Windows 0.7 include a saved six-checkpoint beginner practice path with random cases, alongside notation, OLL, PLL, and full-solve drills. Both builds add continuous Atlas and CFOP training solves on one virtual cube, plus ten animated case demonstrations and move-by-move diagrams. This is a teaching prototype, not a proven optimal method. Both builds clear guided hints when a free scramble or reset starts. Android's Bluetooth client supports the Cube Atlas PC Test Cube only; it does **not** yet discover a GAN iCarry 4. Windows GAN integration still needs connection and move-synchronization testing. A compact offline cubing coach is planned, not yet included.
+This preview adds free-scramble coaching with checked complete-solve hints, live F2L piece locations, paired Atlas/CFOP practice on the same scramble, and one verified worked example each for Roux, ZZ, and Petrus. These are learning examples, not complete arbitrary-scramble trainers for all methods. The coach uses offline cube-state rules; no language model is bundled.
 
-The `update.json` file is the public version feed. Android checks it on launch and offers newer APKs, with Android installation approval. The Windows `.appinstaller` file sets up update checks for the signed MSIX package. The portable Windows ZIP does not update itself. The MSIX uses a test certificate and requires that certificate to be trusted on the PC.
-
-
+Android still connects to the Cube Atlas PC Test Cube, not the GAN iCarry 4. Windows GAN integration is unchanged and requires physical testing. The `update.json` feed offers Android updates on app launch. The Windows `.appinstaller` checks for signed MSIX updates. The MSIX uses the existing Cube Atlas test certificate.
