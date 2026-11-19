@@ -3,7 +3,7 @@
   "android": {
     "versionCode": 9,
     "versionName": "0.9",
-    "url": "https://github.com/desro13/cube-atlas-downloads/releases/download/v0.9.0-preview/CubeAtlas-Android-0.9-preview.apk",
+    "url": "https://github.com/desro13/cube-atlas-downloads/releases/download/v0.9.0-preview/CubeAtlasMobile-0.9.apk",
     "sha256": "f996a79b400a5bc763f20283d9958adb75a29ac9225d6b8047e9865d8515c4fe"
   },
   "windows": {
