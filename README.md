@@ -1,9 +1,9 @@
 # Cube Atlas downloads
 
-This public repository hosts installable Cube Atlas preview builds and the version feed. Application source remains private.
+This public repository hosts installable Cube Atlas preview builds and its version feed. Application source remains private.
 
-Download the current [Android 0.9 and Windows 0.8 preview](https://github.com/desro13/cube-atlas-downloads/releases/tag/v0.9.0-preview).
+Download the current [Android 0.10 and Windows 0.10 preview](https://github.com/desro13/cube-atlas-downloads/releases/tag/v0.10.0-preview).
 
-This preview adds free-scramble coaching with checked complete-solve hints, live F2L piece locations, paired Atlas/CFOP practice on the same scramble, and one verified worked example each for Roux, ZZ, and Petrus. These are learning examples, not complete arbitrary-scramble trainers for all methods. The coach uses offline cube-state rules; no language model is bundled.
+The expanded offline 3×3 case library has 257 named cases and 1,014 move options across F2L, two-look OLL, OLL, two-look PLL, PLL, COLL, ELL, Roux CMLL, and Roux LSE. Select a case to watch its setup and one move option or build a practice case on the virtual cube. The data is adapted from cellonty/cube-trainer under MIT with its license bundled. ZBLS, ZBLL, ZZ-specific sets, and complete Petrus practice are not yet included. Bluetooth support is unchanged from the prior preview.
 
-Android still connects to the Cube Atlas PC Test Cube, not the GAN iCarry 4. Windows GAN integration is unchanged and requires physical testing. The `update.json` feed offers Android updates on app launch. The Windows `.appinstaller` checks for signed MSIX updates. The MSIX uses the existing Cube Atlas test certificate.
+Android checks `update.json` on launch and offers a newer APK with Android installation approval. The Windows `.appinstaller` checks for signed MSIX updates. The MSIX uses the existing Cube Atlas test certificate.
