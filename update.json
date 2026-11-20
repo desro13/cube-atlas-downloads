@@ -7,8 +7,8 @@
     "sha256": "209b7517567209c7e10f3a1121612ac8d918bbbc509388157024b3747eb98d41"
   },
   "windows": {
-    "version": "0.11.0",
-    "url": "https://github.com/desro13/cube-atlas-downloads/releases/download/v0.11.0-preview/CubeAtlas-Windows-0.11.msix",
-    "sha256": "7274825e23190d434e75ed8a3253ed28668e090d6b2acc9a61e2d9af8884dfbc"
+    "version": "0.13.0",
+    "url": "https://github.com/desro13/cube-atlas-downloads/releases/download/v0.13.0-preview/CubeAtlas-Windows-0.13.msix",
+    "sha256": "d2c5689ade2d2465ad0c393030fe028d682e6e058a851351589c5c0f080d8cc3"
   }
 }
