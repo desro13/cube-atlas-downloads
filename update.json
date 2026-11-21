@@ -1,14 +1,14 @@
-{
-  "channel": "preview",
-  "android": {
-    "versionCode": 19,
-    "versionName": "0.19",
-    "url": "https://github.com/desro13/cube-atlas-downloads/releases/download/v0.19.0-preview/CubeAtlasMobile-0.19.apk",
-    "sha256": "d72655e55cf72c3e2bd7ab443107316491745d20a280df6be013922581384c0b"
-  },
-  "windows": {
-    "version": "0.19.0",
-    "url": "https://github.com/desro13/cube-atlas-downloads/releases/download/v0.19.0-preview/CubeAtlas-Windows-0.19.msix",
-    "sha256": "569403efc396aa83df487b55b2f54b7bb5a2de5ad8baf3eb10108076743e5900"
-  }
+﻿{
+    "channel":  "preview",
+    "android":  {
+                    "versionCode":  20,
+                    "versionName":  "0.20",
+                    "url":  "https://github.com/desro13/cube-atlas-downloads/releases/download/v0.20.0-preview/CubeAtlasMobile-0.20.apk",
+                    "sha256":  "602924198e92bec84f73bdedf47fb9b17a82f93a917fcd4c43d372c46c6fce49"
+                },
+    "windows":  {
+                    "version":  "0.20.0",
+                    "url":  "https://github.com/desro13/cube-atlas-downloads/releases/download/v0.20.0-preview/CubeAtlas-Windows-0.20.msix",
+                    "sha256":  "2f2c3e72e516e3b1a7fff1f461f0a98d47a4488ac3491130cb246124879b3e8e"
+                }
 }
