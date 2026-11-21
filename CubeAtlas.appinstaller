@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2021" Version="0.14.0.0" Uri="https://raw.githubusercontent.com/desro13/cube-atlas-downloads/main/CubeAtlas.appinstaller">
-  <MainPackage Name="CubeAtlas.LearningApp" Publisher="CN=Cube Atlas Test" Version="0.14.0.0" ProcessorArchitecture="x64" Uri="https://github.com/desro13/cube-atlas-downloads/releases/download/v0.14.0-preview/CubeAtlas-Windows-0.14.msix" />
+<AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2021" Version="0.15.0.0" Uri="https://raw.githubusercontent.com/desro13/cube-atlas-downloads/main/CubeAtlas.appinstaller">
+  <MainPackage Name="CubeAtlas.LearningApp" Publisher="CN=Cube Atlas Test" Version="0.15.0.0" ProcessorArchitecture="x64" Uri="https://github.com/desro13/cube-atlas-downloads/releases/download/v0.15.0-preview/CubeAtlas-Windows-0.15.msix" />
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="0" ShowPrompt="false" />
     <AutomaticBackgroundTask />
